@@ -1,4 +1,5 @@
-# Template JSON
+# Template JSON 
+# Why is this a python file?
 {
   "technique_name": "",
   "technique_id": "D3-XXX",
@@ -40,7 +41,7 @@
         }
       ],
       "system_state":
-       [
+      [
         {
           "postcondition_id": "ID-POST-002",
           "prolog": "",
